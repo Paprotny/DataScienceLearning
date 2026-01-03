@@ -1,5 +1,11 @@
 __pycache__/
 .ipynb_checkpoints/
-data/
+Scikit-Learn/data/
 venv/
-models/
+Scikit-Learn/models/
+config.yaml
+*.log
+*.pkl
+temp/
+model_tree.pkl
+Projekt/*.pkl
